@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+}
+
+.margem{
+    margin-left: -20px;
+}
+
+.corFundo{
+    background-color: lightgray;
+}
+body{
+    background-color: lightgray;
+}
+
+.margem{
+    margin-left: 530px;
+}
+
+.MM{
+    margin-right: 130px;
+}

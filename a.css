@@ -1,0 +1,241 @@
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px; 
+
+}
+
+.button-container90 {
+    display: flex;
+    justify-content: center;
+    margin-top: -90px; 
+
+}
+
+.button-container2 {
+    display: flex;
+    align-self: center;
+} 
+
+
+.faixa {
+height: 95px;
+background-color: #d9af7e;
+border: #d9af7e;
+}
+
+.faixa2 {
+height: 95px;
+background-color: #ffffff;
+border: #ffffff;
+}
+
+.faixa2 {
+    height: 95px;
+    background-color: #9E5918;
+    border: #ffffff;
+    }
+
+.button {
+align-items: center;
+justify-content: center;
+border: none;
+border-color: #ffffff;
+border-radius: 15%;
+color: white;
+padding: 16px 20px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 25x;
+margin: 15px 15px;
+transition-duration: 0.5s;
+cursor: pointer;
+font-size: 25px;
+
+
+
+}
+
+
+  
+
+
+
+
+.button3 {
+align-items: center;
+justify-content: center;
+border: none;
+border-radius: 15%;
+color: white;
+padding: 1px 50px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10x;
+margin: 15px 15px;
+transition-duration: 0.4s;
+cursor: pointer;
+font-size: 20px;
+
+
+
+}
+
+.button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+.zoom-button {
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    transition: transform 0.3s ease;
+}
+
+.zoom-button:hover {
+    transform: scale(1.2);
+}
+
+.zoom-button img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.button1 {
+background-color: white; 
+color: black; 
+border: none;
+border-color: #ffffff;
+}
+
+.button1:hover {
+background-color: #d9af7e;
+color: rgb(0, 0, 0);
+}
+
+
+
+.button2 {
+background-color: #d9af7e;
+color: black;
+border: #d9af7e;
+}
+
+.button2:hover {
+background-color: white;
+color: #d9af7e;
+}
+
+.alinharD{
+    text-align: right;
+    margin-top: -39px;
+  font-family:'Franklin Gothic Medium';
+}
+
+.alinharE{
+text-align: left;
+margin-top: 0px;
+font-family:'Franklin Gothic Medium';
+}
+
+.div1 {
+    align-self: center;
+}
+
+.box {
+    align-self: center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin: 50px;
+  }
+
+  .box2 {
+    align-self: center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: #3498db;
+    margin: 90px;
+  }
+
+.container {
+    text-align: center;
+}
+
+.container2 {
+    text-align: start;
+    background-color: #D9D9D9;
+    direction: ltr;
+    margin: 100px;
+}
+
+.container3 {
+    background-color: #D9D9D9;
+    margin-bottom: -100px;
+    margin-top: -100px;
+}
+
+
+.colored-section {
+    background-color: #d9af7e; /* Substitua pela cor desejada */
+    max-width: 1000px;
+    text-align: justify;
+
+}
+
+
+
+
+.alinhar {
+    align-items: center;
+}
+
+.right-to-left-section {
+    max-width: 600px;
+    margin: 0 auto;
+    direction: rtl; /* Define a direção da faixa como da direita para a esquerda */
+    /* Adicione outras regras de estilo conforme necessário */
+    background-color: #d9af7e;
+}
+
+
+footer div b:not(:last-child) {
+    margin-right: 100px; /* Ajuste conforme necessário */
+}
+
+.right-div {
+    display: flex;
+    justify-content: flex-end;
+  
+
+}
+
+.caixa-lado-direito {
+    background-color: #d9af7e; /* Cor de fundo */
+    max-width: 1000px; /* Largura da caixa */
+    height: 100px;
+    /* Espaçamento interno */
+    float: right; /* Alinhamento à direita */
+}
+
+.container4 {
+    display: flex;
+    justify-content: space-between;}
+
+    .caixa-h3 {
+        background-color: #cccccc;
+        padding: 10px;
+        width: calc(50% - 15px);
+      }
+
+      .h3{
+        display: block;
+    text-align: center;
+      }
